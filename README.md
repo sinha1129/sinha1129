@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me https://www.linkedin.com/in/sinha-bhukya
 - 😄 Pronouns: He
-- ⚡ Fun fact: Eat Code Sleep
+- ⚡ Fun fact: Eat, Code, Sleep, Repeat..
 
 <!---
 sinha1129/sinha1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
